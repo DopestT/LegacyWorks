@@ -1,0 +1,127 @@
+<!-- email-system.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Email System - Niche Profit Blueprint</title>
+  <meta name="description" content="Why email matters. How Broadcast OS feeds email. Long-term asset framing.">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="logo">Niche Profit Blueprint</div>
+      <nav class="main-nav">
+        <a href="index.html">Home</a>
+        <a href="how-it-works.html">How It Works</a>
+        <a href="broadcast-os.html">Broadcast OS</a>
+        <a href="tools.html">Tools</a>
+        <a href="income.html">Income Models</a>
+        <a href="start-here.html" class="btn-nav">Start Here</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container hero-inner">
+      <h1>Email Is Your Only Real Audience</h1>
+      <p>Platforms rent you reach. You own your list.</p>
+    </div>
+  </section>
+
+  <main class="container">
+    <div class="email-comparison">
+      <div class="comparison-table">
+        <div class="comparison-header">
+          <div class="metric-header">Metric</div>
+          <div class="platform-header">Social</div>
+          <div class="platform-header">Email</div>
+        </div>
+        <div class="comparison-row">
+          <div class="metric-cell">Ownership</div>
+          <div class="platform-cell">Platform owns</div>
+          <div class="platform-cell highlight">You own</div>
+        </div>
+        <div class="comparison-row">
+          <div class="metric-cell">Reach Rate</div>
+          <div class="platform-cell">5-10%</div>
+          <div class="platform-cell highlight">40-60%</div>
+        </div>
+        <div class="comparison-row">
+          <div class="metric-cell">Conversion Rate</div>
+          <div class="platform-cell">0.5%</div>
+          <div class="platform-cell highlight">3-5%</div>
+        </div>
+        <div class="comparison-row">
+          <div class="metric-cell">Lifespan</div>
+          <div class="platform-cell">Hours</div>
+          <div class="platform-cell highlight">Years</div>
+        </div>
+        <div class="comparison-row">
+          <div class="metric-cell">Asset Value</div>
+          <div class="platform-cell">$0</div>
+          <div class="platform-cell highlight">$1-3 per subscriber</div>
+        </div>
+      </div>
+      <p class="comparison-note">Every follower on social is a borrowed contact. Every email subscriber is an owned asset.</p>
+    </div>
+
+    <div class="broadcast-feeds-email">
+      <h2>Broadcast OS Feeds Email</h2>
+      <div class="feed-diagram">
+        <div class="feed-step">
+          <svg class="feed-icon"><use href="assets/icons/icons.svg#social"></use></svg>
+          <h4>Social Content</h4>
+        </div>
+        <div class="feed-arrow">→</div>
+        <div class="feed-step">
+          <svg class="feed-icon"><use href="assets/icons/icons.svg#magnet"></use></svg>
+          <h4>Lead Magnet</h4>
+        </div>
+        <div class="feed-arrow">→</div>
+        <div class="feed-step">
+          <svg class="feed-icon"><use href="assets/icons/icons.svg#email"></use></svg>
+          <h4>Email Sequence</h4>
+        </div>
+      </div>
+      <p>Every piece of social content includes a subtle lead magnet invitation. Comparison tables offer PDF downloads. Tutorials offer checklists. Reviews offer tool lists. The magnet is relevant. The invitation is calm. The conversion is natural.</p>
+      
+      <div class="sequence-structure">
+        <h3>Email Sequence Structure</h3>
+        <ul class="sequence-list">
+          <li><strong>Welcome series (3 emails):</strong> Build trust, set expectations</li>
+          <li><strong>Nurture series (5 emails):</strong> Deliver value, demonstrate expertise</li>
+          <li><strong>Pitch series (3 emails):</strong> Offer relevant products, track conversions</li>
+        </ul>
+        <p>All pre-written. All automated. All measured.</p>
+      </div>
+    </div>
+
+    <div class="asset-framing">
+      <h2>Your Email List Is a Compound Asset</h2>
+      <div class="asset-growth">
+        <div class="growth-visual">
+          <div class="growth-bar" style="height:20%">Month 1: 50 subscribers</div>
+          <div class="growth-bar" style="height:60%">Month 6: 500 subscribers</div>
+          <div class="growth-bar" style="height:100%">Month 12: 2,000 subscribers</div>
+        </div>
+        <div class="growth-math">
+          <p>At $2 per subscriber per month, that's $4,000 in monthly revenue from an asset you own completely.</p>
+          <p>No platform can throttle it. No algorithm can hide it. No policy change can delete it.</p>
+        </div>
+      </div>
+      <p>The Blueprint builds your list from post one. Because ownership is the only sustainable strategy.</p>
+    </div>
+
+    <div class="final-cta">
+      <h2>Start building your email asset</h2>
+      <a href="start-here.html" class="btn-primary">Start the Blueprint</a>
+    </div>
+  </main>
+
+  <footer>
+    <p>© Niche Profit Blueprint · <a href="disclosure.html">Affiliate Disclosure</a></p>
+  </footer>
+</body>
+</html>

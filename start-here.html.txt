@@ -1,0 +1,151 @@
+<!-- start-here.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Start Here - Niche Profit Blueprint</title>
+  <meta name="description" content="Start the Blueprint. Build your first income system this week.">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="logo">Niche Profit Blueprint</div>
+      <nav class="main-nav">
+        <a href="index.html">Home</a>
+        <a href="how-it-works.html">How It Works</a>
+        <a href="broadcast-os.html">Broadcast OS</a>
+        <a href="tools.html">Tools</a>
+        <a href="income.html">Income Models</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container hero-inner">
+      <h1>Start the Blueprint</h1>
+      <p>What you get. Who it's for. What happens next.</p>
+    </div>
+  </section>
+
+  <main class="container">
+    <div class="what-you-get">
+      <div class="get-card">
+        <svg class="get-icon"><use href="assets/icons/icons.svg#system"></use></svg>
+        <h3>The System</h3>
+        <ul class="get-list">
+          <li>5-step framework documentation</li>
+          <li>Platform integration guides</li>
+          <li>Automation templates</li>
+          <li>Performance tracking dashboard</li>
+        </ul>
+      </div>
+
+      <div class="get-card">
+        <svg class="get-icon"><use href="assets/icons/icons.svg#tools"></use></svg>
+        <h3>The Stack</h3>
+        <ul class="get-list">
+          <li>AI writing tool recommendations</li>
+          <li>Scheduling platform setup</li>
+          <li>Email sequence templates</li>
+          <li>Analytics configuration</li>
+        </ul>
+      </div>
+
+      <div class="get-card">
+        <svg class="get-icon"><use href="assets/icons/icons.svg#support"></use></svg>
+        <h3>The Support</h3>
+        <ul class="get-list">
+          <li>Monthly system audits</li>
+          <li>Content performance reviews</li>
+          <li>Stack optimization suggestions</li>
+          <li>Revenue attribution analysis</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="who-section">
+      <div class="who-card">
+        <h3>This Works If You Are:</h3>
+        <ul class="who-list who-good">
+          <li>Willing to create 3-5 pieces of content per week initially</li>
+          <li>Comfortable with AI assistance (not replacement)</li>
+          <li>Patient with compounding (expect 3-6 months to meaningful revenue)</li>
+          <li>Detail-oriented enough to track metrics weekly</li>
+          <li>Platform-agnostic (no loyalty to one social network)</li>
+        </ul>
+      </div>
+
+      <div class="who-card">
+        <h3>This Doesn't Work If You:</h3>
+        <ul class="who-list who-bad">
+          <li>Need income this month to survive</li>
+          <li>Want to "go viral" or build a personal brand</li>
+          <li>Refuse to use AI tools on principle</li>
+          <li>Prefer manual control over every post</li>
+          <li>Can't commit to a system for 90 days</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="next-steps">
+      <h2>What Happens Next</h2>
+      <div class="steps-row">
+        <div class="step-item">
+          <h4>Step 1: Enter your email</h4>
+          <p>You receive instant access to the Blueprint starter kit.</p>
+        </div>
+        <div class="step-item">
+          <h4>Step 2: Set up your stack</h4>
+          <p>Follow the tool integration guide (takes 2-3 hours).</p>
+        </div>
+        <div class="step-item">
+          <h4>Step 3: Create your first post</h4>
+          <p>Use the AI writing system to draft, review, and schedule.</p>
+        </div>
+        <div class="step-item">
+          <h4>Step 4: Run your first broadcast</h4>
+          <p>The system distributes to all platforms automatically.</p>
+        </div>
+        <div class="step-item">
+          <h4>Step 5: Review your dashboard</h4>
+          <p>Track performance weekly. Optimize monthly. Compound yearly.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="email-capture">
+      <h2>Get the Blueprint Starter Kit</h2>
+      <p>The exact system, tools, and templates used to build compounding niche income.</p>
+      
+      <div class="email-form">
+        <form name="blueprint-capture" method="POST" data-netlify="true" action="thank-you.html">
+          <div class="form-group">
+            <label for="name">First Name</label>
+            <input type="text" id="name" name="name" required>
+          </div>
+          <div class="form-group">
+            <label for="email">Email Address</label>
+            <input type="email" id="email" name="email" required>
+          </div>
+          <button type="submit" class="form-submit">Send Me the Blueprint</button>
+        </form>
+        
+        <div class="privacy-text">
+          By subscribing you agree to receive emails. Unsubscribe anytime. No platform-specific hacks. No hype.
+        </div>
+      </div>
+    </div>
+
+    <div class="final-cta">
+      <h2>Your first broadcast cycle starts this week</h2>
+      <a href="index.html" class="btn-secondary">Back to Home</a>
+    </div>
+  </main>
+
+  <footer>
+    <p>© Niche Profit Blueprint · <a href="disclosure.html">Affiliate Disclosure</a></p>
+  </footer>
+</body>
+</html>

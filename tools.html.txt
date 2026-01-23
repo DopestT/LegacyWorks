@@ -1,0 +1,104 @@
+<!-- tools.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tools & Stack - Niche Profit Blueprint</title>
+  <meta name="description" content="The automation layer that runs while you rest.">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="logo">Niche Profit Blueprint</div>
+      <nav class="main-nav">
+        <a href="index.html">Home</a>
+        <a href="how-it-works.html">How It Works</a>
+        <a href="broadcast-os.html">Broadcast OS</a>
+        <a href="income.html">Income Models</a>
+        <a href="start-here.html" class="btn-nav">Start Here</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container hero-inner">
+      <h1>The Stack That Runs While You Rest</h1>
+      <p>Every tool chosen for one purpose: making the system autonomous.</p>
+    </div>
+  </section>
+
+  <main class="container">
+    <div class="tool-stack">
+      <div class="tool-category">
+        <svg class="category-icon"><use href="assets/icons/icons.svg#ai"></use></svg>
+        <h3>AI Writing Assistant</h3>
+        <p>Structure, not substitution. AI drafts outlines and expands points. You add perspective.</p>
+        <div class="tool-demo">
+          Input: "Best email marketing tools"<br>
+          Output: Structured review with pros/cons, pricing, verdict
+        </div>
+        <div class="efficiency-meter">
+          <div class="efficiency-fill" style="width:85%"></div>
+        </div>
+        <small>85% time reduction on first drafts</small>
+      </div>
+
+      <div class="tool-category">
+        <svg class="category-icon"><use href="assets/icons/icons.svg#image"></use></svg>
+        <h3>Visual Generator</h3>
+        <p>One prompt → platform-specific visuals. Blog hero → Instagram square → Pinterest vertical.</p>
+        <div class="tool-demo">
+          Blog hero → Instagram square → Pinterest vertical → YouTube thumbnail
+        </div>
+        <div class="efficiency-meter">
+          <div class="efficiency-fill" style="width:92%"></div>
+        </div>
+        <small>92% faster visual creation</small>
+      </div>
+
+      <div class="tool-category">
+        <svg class="category-icon"><use href="assets/icons/icons.svg#clock"></use></svg>
+        <h3>Intelligent Scheduling</h3>
+        <p>Posts when your audience is active, not when you remember. Learns from performance data.</p>
+        <div class="tool-demo">
+          Optimal times: Email 9am, Social 2pm, Video 7pm<br>
+          Auto-adjusts for time zones and performance
+        </div>
+        <div class="efficiency-meter">
+          <div class="efficiency-fill" style="width:78%"></div>
+        </div>
+        <small>78% improvement in reach</small>
+      </div>
+
+      <div class="tool-category">
+        <svg class="category-icon"><use href="assets/icons/icons.svg#email"></use></svg>
+        <h3>Email Automation</h3>
+        <p>Social drives subscribers. Email drives revenue. Pre-written sequences build trust and convert.</p>
+        <div class="tool-demo">
+          Social post → Lead magnet → Welcome series → Nurture → Pitch
+        </div>
+        <div class="efficiency-meter">
+          <div class="efficiency-fill" style="width:88%"></div>
+        </div>
+        <small>88% of sequences run automatically</small>
+      </div>
+    </div>
+
+    <div class="stack-philosophy">
+      <h2>The Stack Serves the System. The System Serves You.</h2>
+      <p>No tool is added for novelty. Every integration must justify its existence by reducing manual work or increasing revenue per hour. The goal isn't more automation. It's more autonomy.</p>
+    </div>
+
+    <div class="final-cta">
+      <h2>Access the complete stack</h2>
+      <a href="start-here.html" class="btn-primary">Start the Blueprint</a>
+    </div>
+  </main>
+
+  <footer>
+    <p>© Niche Profit Blueprint · <a href="disclosure.html">Affiliate Disclosure</a></p>
+  </footer>
+</body>
+</html>
