@@ -141,8 +141,17 @@ nav a.active {
   text-decoration: none;
   font-weight: 600;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
-  will-change: transform;
   backface-visibility: hidden;
+}
+
+.btn:hover,
+.btn:focus {
+  will-change: transform;
+}
+
+.btn:hover,
+.btn:focus {
+  will-change: transform;
 }
 
 .btn:hover {
