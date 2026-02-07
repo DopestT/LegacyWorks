@@ -27,11 +27,13 @@ body {
     radial-gradient(1000px 700px at 85% 20%, rgba(96,165,250,0.14), transparent 65%),
     radial-gradient(1100px 800px at 50% 90%, rgba(37,99,235,0.10), transparent 70%);
   animation: waveDrift 32s ease-in-out infinite alternate;
+  transform: translateZ(0);
+  backface-visibility: hidden;
 }
 
 @keyframes waveDrift {
-  from { transform: translateY(0); }
-  to { transform: translateY(-18px); }
+  from { transform: translateY(0) translateZ(0); }
+  to { transform: translateY(-18px) translateZ(0); }
 }
 
 /* =========================
@@ -94,6 +96,8 @@ nav a.active {
   padding: 28px;
   border-radius: 22px;
   position: relative;
+  transform: translateZ(0);
+  backface-visibility: hidden;
 }
 
 .card h3 {
@@ -137,6 +141,11 @@ nav a.active {
   text-decoration: none;
   font-weight: 600;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.btn:hover,
+.btn:focus {
+  will-change: transform;
 }
 
 .btn:hover {
